@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "label": "Home"
+  },
+  {
+    "id": 1,
+    "label": "Profile"
+  },
+  {
+    "id": 2,
+    "label": "Messages"
+  }
+]

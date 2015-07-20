@@ -1,0 +1,3 @@
+<ul class="nav nav-tabs">
+  <li role="presentation" ng-class="{active: isActive(tab)}" ng-repeat="tab in tabs" rex-navbar-tab="tab"><a href="#">{{tab.label}}</a></li>
+</ul>
